@@ -1,6 +1,6 @@
 ## Hi, I'm Jin (Jinho Son)
 
-Full-stack developer in Iloilo City, Philippines. 12 years of web development, including four and a half years on fintech products at Tenspace in Seoul. Since 2018 I have built and run my own products for the Philippine market.
+Full-stack developer in Iloilo City, Philippines. 12 years of web development, including four and a half years on fintech products at Tenspace in Seoul. Since 2018 I have built and run my own products for the Philippine / Global market.
 
 I pay the most attention to the parts that hurt users when they break: payments, payroll, access control and data that goes out of date. I build with Claude Code every day, and I review and test payment, auth and data-write code myself.
 
